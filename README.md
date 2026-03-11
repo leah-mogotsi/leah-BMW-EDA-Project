@@ -10,6 +10,6 @@ An exploratory analysis of BMW's global vehicle sales across four regions and ei
 **🛠️ Tools & Skills**
 
 * Tableau Public — data visualization and dashboard design
-* Python (pandas) — data quality assessment and profiling
-* Exploratory Data Analysis — research question formulation, follow-up investigation, insight generation
+* Python (pandas) — data quality assessment
+* Exploratory Data Analysis 
 
